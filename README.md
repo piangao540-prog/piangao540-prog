@@ -6,7 +6,7 @@
 - 🌱 正在准备 2026 秋招
 
 ## 🛠️ 技术栈
-- **前端**: Vue3 · TypeScript · Pinia · Element Plus · Vite
+- **前端**: Vue3 · TypeScript · uni-app
 - **后端**: Node.js · Express · MySQL
 - **工具**: Git · Docker · Vercel
 
